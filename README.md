@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hello, I'm Rayyan!
 🎓 I'm a **Computer Science** student with strong interests in **Software Engineering**, **Fullstack Development**, **Ethical Game Hacking**, and **Secure Systems Design**.
 
 💻 I enjoy building software that solves real-world problems — from secure credential managers to multiplayer games and web scrapers. I’m constantly exploring new technologies and improving my craft.
