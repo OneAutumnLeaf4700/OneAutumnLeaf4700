@@ -7,7 +7,6 @@
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=OneAutumnLeaf4700&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OneAutumnLeaf4700&theme=one_dark_pro&hide_border=false&layout=compact)
 
 ---
 
