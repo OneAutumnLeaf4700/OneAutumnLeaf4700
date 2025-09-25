@@ -1,8 +1,12 @@
 # 👋 Hello, I'm Rayyan!
-🎓 I'm a **Computer Science** student with strong interests in **Software Engineering**, **Fullstack Development**, **Ethical Game Hacking**, and **Secure Systems Design**.
+I’m a penultimate-year Computer Science undergraduate at Queen Mary University of London (‘27) with a focus on software engineering and cybersecurity.
 
-💻 I enjoy building software that solves real-world problems — from secure credential managers to multiplayer games and web scrapers. I’m constantly exploring new technologies and improving my craft.
+I like building tools that solve real problems I run into — if I catch myself doing something inefficiently, I usually end up coding a fix. My projects range from secure file transfer systems and memory manipulation sandboxes to experiments in AI assistants and blockchain applications.
 
+Right now, I’m learning more about low-level systems programming, security, and scalable software design. My long-term goal is to build a fully-fledged JARVIS-style assistant that integrates with daily life — not just another chatbot, but something that interacts with your workspace, smart devices, and environment.
+
+📌 Pinned projects are a good place to start if you want to see what I’ve been working on.
+💬 Always open to feedback, collaboration, or just chatting about code — feel free to reach out.
 ---
 
 # 📊 GitHub Stats:
