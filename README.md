@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Rayyan!
-I’m a penultimate-year Computer Science undergraduate at Queen Mary University of London (‘27) with a focus on software engineering and cybersecurity.
+I’m a final-year Computer Science undergraduate at Queen Mary University of London (‘27) with a focus on software engineering and cybersecurity.
 
 I like building tools that solve real problems I run into — if I catch myself doing something inefficiently, I usually end up coding a fix. My projects range from secure file transfer systems and memory manipulation sandboxes to experiments in AI assistants and blockchain applications.
 
