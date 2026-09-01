@@ -1,12 +1,18 @@
 # 👋 Hello, I'm Rayyan!
-I’m a final-year Computer Science undergraduate at Queen Mary University of London (‘27) with a focus on software engineering and cybersecurity.
 
-I like building tools that solve real problems I run into — if I catch myself doing something inefficiently, I usually end up coding a fix. My projects range from secure file transfer systems and memory manipulation sandboxes to experiments in AI assistants and blockchain applications.
+I'm a final-year Computer Science undergraduate at Queen Mary University of London (BSc, expected
+2027), heading toward software engineering with an ML/MLOps lean — I recently interned on
+Expedia's ML Platform team shipping model deployment tooling, and most of my personal projects
+now sit somewhere between systems engineering and applied ML.
 
-Right now, I’m learning more about low-level systems programming, security, and scalable software design. My long-term goal is to build a fully-fledged JARVIS-style assistant that integrates with daily life — not just another chatbot, but something that interacts with your workspace, smart devices, and environment.
+I like building things from the ground up rather than gluing libraries together — if I'm going to
+learn a concept, I want the code to force me to understand it. Recent projects: a hybrid
+C++/Python assistant with a local-first NLU pipeline (JARVIS), a real-time multiplayer chess app
+with authoritative server-side state, and a C++ SFTP client built on libssh2.
 
-📌 Pinned projects are a good place to start if you want to see what I’ve been working on.
+📌 Pinned projects are a good place to start if you want to see what I've been working on.
 💬 Always open to feedback, collaboration, or just chatting about code — feel free to reach out.
+
 ---
 
 # 📊 GitHub Stats:
@@ -15,5 +21,5 @@ Right now, I’m learning more about low-level systems programming, security, an
 ---
 
 ## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayyanidriss) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayyaniwork@outlook.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayyanidriss)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayyaniwork@outlook.com)
