@@ -1,12 +1,10 @@
 # 👋 Hello, I'm Rayyan!
 
 I'm a final-year Computer Science undergraduate at Queen Mary University of London (BSc, expected
-2027), heading toward software engineering with an ML/MLOps lean — I recently interned on
-Expedia's ML Platform team shipping model deployment tooling, and most of my personal projects
-now sit somewhere between systems engineering and applied ML.
+2027), heading toward software engineering with an ML/AI lean.
 
 I like building things from the ground up rather than gluing libraries together — if I'm going to
-learn a concept, I want the code to force me to understand it. Recent projects: a hybrid
+learn a concept, I want to make sure i really understand it . Recent projects: a hybrid
 C++/Python assistant with a local-first NLU pipeline (JARVIS), a real-time multiplayer chess app
 with authoritative server-side state, and a C++ SFTP client built on libssh2.
 
