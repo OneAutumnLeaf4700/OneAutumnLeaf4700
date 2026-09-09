@@ -14,7 +14,7 @@ with authoritative server-side state, and a C++ SFTP client built on libssh2.
 ---
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=OneAutumnLeaf4700&theme=one_dark_pro&hide_border=false)<br/>
+![Metrics](https://raw.githubusercontent.com/OneAutumnLeaf4700/OneAutumnLeaf4700/main/metrics.svg)
 
 ---
 
