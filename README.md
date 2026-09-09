@@ -14,7 +14,7 @@ with authoritative server-side state, and a C++ SFTP client built on libssh2.
 ---
 
 # 📊 GitHub Stats:
-![Metrics](https://raw.githubusercontent.com/OneAutumnLeaf4700/OneAutumnLeaf4700/main/metrics.svg)
+![Metrics](https://raw.githubusercontent.com/OneAutumnLeaf4700/OneAutumnLeaf4700/master/metrics.svg)
 
 ---
 
